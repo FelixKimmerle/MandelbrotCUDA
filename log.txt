@@ -1,2 +1,0 @@
-nvprof debug/MEXP
-Goodbye :)
